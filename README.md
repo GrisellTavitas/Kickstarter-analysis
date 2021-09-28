@@ -94,24 +94,24 @@ Good new! This last analysis, has a manual way to verify if the result on the fo
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
   
-  -Louise should consider to launch her next theater campaing during the months of May, June or July, and preferably during May. 
+  - Louise should consider to launch her next theater campaing during the months of May, June or July, and preferably during May. 
   
-  -And defenitly Louise should avoid to launch it during the months of December, October or August, in that order. Since they are the months with most probabilities to fail. 
+  - And defenitly Louise should avoid to launch it during the months of December, October or August, in that order. Since they are the months with most probabilities to fail. 
   See next image:
   
   ![Avoid launch on_](https://user-images.githubusercontent.com/90433064/135022384-467864a0-e4a6-4c1f-97ce-e3644e7f3061.png)
 
 - What can you conclude about the Outcomes based on Goals?
   
-  -   Louise should take into account that an amount around 1000 to 4999 to set as goal, would have good chances to succed. Otherwise the chances to reach the goal, would decrease as increase her goal. 
-  -   The range that has the worst chances to succed, it would be from 45000 to 49999
+  - Louise should take into account that an amount around 1000 to 4999 to set as goal, would have good chances to succed. Otherwise the chances to reach the goal, would decrease as increase her goal. 
+  - The range that has the worst chances to succed, it would be from 45000 to 49999
 
 - What are some limitations of this dataset?
 
-  -  One important thing that I think we should fix before give an official advice to Louise, or at least, to give her this information as well; It's that the currency for the ranges could be different, since we are analyzing theater campaings from different parts of the world, so I suggest standardise the currency to US Dollar, since is internationally known; and it would be a best reference setting those ranges of goals, all in US Dollars, so then Louise could take better decisions about the details for her next theater fundraising campaing. 
+  - One important thing that I think we should fix before give an official advice to Louise, or at least, to give her this information as well; It's that the currency for the ranges could be different, since we are analyzing theater campaings from different parts of the world, so I suggest standardise the currency to US Dollar, since is internationally known; and it would be a best reference setting those ranges of goals, all in US Dollars, so then Louise could take better decisions about the details for her next theater fundraising campaing. 
  
 - What are some other possible tables and/or graphs that we could create?
  
-  -We could create a table to show the posible pattern between the outcomes and the campaing duration. 
+  - We could create a table to show the posible pattern between the outcomes and the campaing duration. 
   
-  -We could assign the correspondant exchange rate to stardardise the currency and then update the worksheet for the analysis based on goal's range.  
+  - We could assign the correspondant exchange rate to stardardise the currency and then update the worksheet for the analysis based on goal's range.  
